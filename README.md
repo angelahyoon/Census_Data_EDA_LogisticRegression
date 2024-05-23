@@ -1,2 +1,6 @@
 # Census_Data_EDA_LogisticRegression
 This project evaluates the predictive performance of a machine learning model on the UCI Census Income dataset, which categorizes individuals into income brackets based on demographic and employment data. We aim to predict whether an individual’s income will be greater than $50K annually.
+
+The Census Income dataset available at the UC Irvine Machine Learning Repository, is a collection of data from the 1994 US Census database. The dataset includes 48,842 instances and 14 attributes.
+
+The primary challenge posed by the dataset is to predict whether an individual earns more than $50,000 a year based on the census attributes. We first explore the data at face value in order to grasp a better understanding of the trends and representations of certain attributes. We then apply this to a model to predict whether an individual made more or less than $50,000 in 1994. Then in the next section, we evaluate its performance. We rigorously evaluate and compare the performance of model(s) by conducting repeated experiments. Finally, we find out what features are of significance, what methods are most effective and also identify the best model for predicting income based on the provided attributes.
